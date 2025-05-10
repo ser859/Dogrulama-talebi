@@ -1,0 +1,1 @@
+# Dogrulama-talebi
